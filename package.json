@@ -1,0 +1,23 @@
+{
+  "name": "optimized-puppeteer",
+  "version": "1.0.0",
+  "description": "Let's see how can we optimize puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ats1999/Optimized-Puppeteer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ats1999/Optimized-Puppeteer/issues"
+  },
+  "homepage": "https://github.com/ats1999/Optimized-Puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^13.4.0"
+  }
+}
